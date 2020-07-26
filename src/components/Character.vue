@@ -59,6 +59,10 @@ h1 {
     line-height: 1.2em;
 }
 
+.single-char-info h1 {
+    margin-bottom: 1em;
+}
+
 .related {
     margin: 3em auto;
     width: 80%;
